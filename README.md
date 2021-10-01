@@ -13,22 +13,4 @@
 If you want to use my models in your own resourcepack, please follow the [licence](./LICENCE).  
 Donation: https://afdian.net/ (Please use CNY)
 ## Features
-- 3D Models with default textures;
-- Optifine Custom Entity Models(not support 1.8 with Optifine version below L5);
-
-- Optifine self-illuminating textures(not support 1.8 with Optifine version below L5);
-
-- Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition. Please choose no_Optifine edition when you are not using Optifine.)
-- Texture bug fix for default models(This won't work correctly when playing without Optifine but loading Optifine edition in Minecraft 1.8.9 to 1.13.2 . Please choose NonOf edition when you are not using Optifine in these Minecraft versions.)
-
-- PBR self-illuminating textures(Only supported by few shaders such as [Wisom Shader](https://github.com/bobcao3/Wisdom-Shaders).)
-
-- 3D Models for few mods:
-
- > TwilightForest(1.12, waiting for TF updates to higher Minecraft version)
-TinkersConstruct(1.10-1.12)
-  - TwilightForest(1.12, waiting for TF updates to higher Minecraft version)
-
-  - TinkersConstruct(1.10-1.12)
-
-- More features are coming soom.
+- Real solar system.
