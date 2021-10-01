@@ -4,7 +4,6 @@
 ## More information can be found [here](https://space.bilibili.com/2099051477) (In Chinese)(Not yet)
 *This Solar system is for Spaceflight Simulator1.52 only.*  
 If you want to use my planet in your own solar system, please follow the [licence](./LICENCE).  
-Donation: https://afdian.net/ (Please use CNY)(Not yet).
 ## Features
 - Real solar system;  
 - Most planet data are real data (such as radius, gravity, orbit data, etc.)(because it is real data, it is difficult to reach the first cosmic speed. In the future, it will be reduced by one tenth).  
