@@ -6,7 +6,7 @@ If you want to use my planet in your own solar system, please follow the [licenc
 Donation: https://afdian.net/ (Please use CNY)(Not yet).
 ## Features
 - Real solar system;  
-- Most planet data are real data (such as radius, gravity, orbit data, etc.).  
+- Most planet data are real data (such as radius, gravity, orbit data, etc.)(because it is real data, it is difficult to reach the first cosmic speed. In the future, it will be reduced by one tenth).  
 ## Update plan
 0.1:Change the basic data of all original planets;  
 0.2:Change pictures of all original planets(Earth has been changed in this version of 0.1);  
