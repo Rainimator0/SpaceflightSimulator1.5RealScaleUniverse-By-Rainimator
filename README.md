@@ -1,5 +1,5 @@
 # Real solar system by Rainimator  
-(Because the author is Chinese, English may not be good)  
+(Since the author is Chinese, English may not be good. Please forgive me)  
 ![](https://sm.ms/image/cWO7XyKHLnAsBil)  
 ## More information can be found [here](https://space.bilibili.com/2099051477) (In Chinese)(Not yet)
 *This Solar system is for Spaceflight Simulator1.52 only.*  
