@@ -7,7 +7,7 @@ People in mainland China suggested in QQ group 697272185.
 If you want to use my planet in your own solar system, please follow the [licence](./LICENCE).  
 ## Features
 - Real solar system;  
-- Most planet data are real data (such as radius, gravity, orbit data, etc.)(because it is real data, it is difficult to reach the first cosmic speed. In the future, it will be reduced by one tenth).  
+- Most planet data are real data (such as radius, gravity, orbit data, etc.)(Because it is real data, it is not easy to reach the first cosmic speed (7.8km / s), and a reduced version will be produced later).  
 ## Update plan
 0.1:Change the basic data of all original planets;  
 0.2:Change pictures of all original planets(Earth has been changed in this version of 0.1);  
