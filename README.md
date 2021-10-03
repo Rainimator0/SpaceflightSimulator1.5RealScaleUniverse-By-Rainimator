@@ -9,6 +9,7 @@ If you want to use my planet in your own solar system, please follow the [licenc
 - Real solar system;  
 - Most planet data are real data (such as radius, gravity, orbit data, etc.)(Because it is real data, it is not easy to reach the first cosmic speed (7.8km / s), and a reduced version will be produced later).  
 ## Update plan
+(Plan may change)
 0.1:Change the basic data of all original planets;  
 0.2:Change pictures of all original planets(Earth has been changed in this version of 0.1);  
 0.3:Add the atmosphere of day and night to the original sub planet(Earth has been changed in this version of 0.1);  
