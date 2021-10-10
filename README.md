@@ -7,7 +7,8 @@ People in mainland China suggested in QQ group 697272185.
 If you want to use my planet in your own solar system, please follow the [licence](./LICENCE).  
 ## Features
 - Real solar system;  
-- Most planet data are real data (such as radius, gravity, orbit data, etc.)(Because it is real data, it is not easy to reach the first cosmic speed (7.8km / s), and a reduced version will be produced later).  
+- Most planet data are real data (such as radius, gravity, orbit data, etc.)(Because it is real data, it is not easy to reach the first cosmic speed (7.8km / s), and a reduced version will be produced later);  
+- Since the gravity of Phobos and Deimos is too small, the escape speed is very small, which makes it difficult to be captured, so we raised their gravity.  
 ## Update plan
 (Plan may change)  
 0.1:Change the basic data of all original planets;  
