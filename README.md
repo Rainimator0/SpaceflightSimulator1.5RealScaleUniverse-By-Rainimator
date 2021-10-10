@@ -1,7 +1,7 @@
 # Real Solar System By Rainimator  
 (Since the author is Chinese, English may not be good. Please forgive me)  
 ![Spaceflight Simulator 1.52.5 Real Solar System By Rainimator Demo Picture](https://sm.ms/image/HwSe8buM4JKnaly)  
-## More information can be found [here](https://space.bilibili.com/2099051477) (In Chinese)(Not yet)
+  
 *This Solar system is for Spaceflight Simulator1.52.5 only.*  
 People in mainland China suggested in QQ group 697272185.  
 If you want to use my planet in your own solar system, please follow the [licence](./LICENCE).  
