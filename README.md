@@ -15,5 +15,5 @@ If you want to use my planet in your own solar system, please follow the [licenc
 0.3:Add the atmosphere of day and night to the original sub planet(Earth has been changed in this version of 0.1);  
 0.4:Debug after user feedback (may skip).
   
-1.1:Add Asteroid belt(Pallas, Juno, Vesta),Saturn,Uranus,Neptune,Kuiper belt(Pluto);
+1.1:Add Asteroid belt(Pallas, Juno, Vesta),Saturn,Uranus,Neptune,Kuiper belt(Pluto);  
 1.2:undetermined.
