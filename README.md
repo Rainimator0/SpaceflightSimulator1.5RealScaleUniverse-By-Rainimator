@@ -1,5 +1,6 @@
 # Real Solar System By Rainimator  
 (Since the author is Chinese, English may not be good. Please forgive me)  
+(Because the author is a student, the update speed may be a little slow)  
 ![Spaceflight Simulator 1.52.5 Real Solar System By Rainimator Demo Picture](https://sm.ms/image/HwSe8buM4JKnaly)  
   
 *This Solar system is for Spaceflight Simulator1.52.5 only.*  
