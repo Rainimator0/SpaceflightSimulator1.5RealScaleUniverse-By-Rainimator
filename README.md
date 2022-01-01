@@ -3,7 +3,7 @@
 (Because the author is a student, the update speed may be a little slow)  
 ![Spaceflight Simulator 1.52.5 Real Solar System By Rainimator Demo Picture](https://sm.ms/image/HwSe8buM4JKnaly)  
   
-*This Solar system is for Spaceflight Simulator1.52.5 only.*  
+*This Solar system is for Spaceflight Simulator1.5 only.*  
 People in mainland China suggested in QQ group 697272185.  
 If you want to use my planet in your own solar system, please follow the [licence](./LICENCE).  
 ## Features
